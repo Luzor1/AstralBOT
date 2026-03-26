@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "Olá, sou o Bot da Astral",
-        "Meu trabalho e ver se esta tudo em ordem",
-        "Jogue normalmente o jogo sem Hacks"
+        "/register DavieLuzor2525",
+        "/login DavieLuzor2525"
       ]
     },
     "chat-log": true,
